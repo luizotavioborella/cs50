@@ -1,11 +1,8 @@
+#include <cs50.h>
 #include <stdio.h>
 
 int main(void)
 {
-    char answer[100];
-
-    printf("What's your name? ");
-    fgets(answer, sizeof(answer), stdin);
-
-    printf("Hello, %s", answer);
+    string answer = get_string("What's your name? ");
+    printf("hello, %s\n", answer);
 }
