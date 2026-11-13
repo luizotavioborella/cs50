@@ -24,8 +24,6 @@ This repository documents my progress throughout the course, with exercises orga
 
 Course developed by Harvard University, covering the fundamentals of computer science and programming.
 
-More information: [CS50x – Harvard University](https://cs50.harvard.edu/x/)
-
 ---
 
 *This repository is continuously updated as I progress through the course.*
