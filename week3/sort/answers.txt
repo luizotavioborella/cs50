@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It is much faster when the numbers are already sorted, but takes much longer with random or reversed numbers.
+
+sort2 uses: Merge sort
+
+How do you know?: It has similar running times with random, sorted, and reversed numbers, even with 50000 numbers.
+
+sort3 uses: Selection sort
+
+How do you know?: It takes a similar amount of time with random and sorted numbers because it always searches for the smallest element in the unsorted portion.
